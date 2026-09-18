@@ -19,6 +19,7 @@
 
 </div>
 
+<img src="thumbnail.jpg">
 ## 📌 Executive Summary
 
 Every year, millions of citizens, students, and consumers waste countless hours trapped in administrative bureaucracy:
