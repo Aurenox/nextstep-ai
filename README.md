@@ -13,7 +13,7 @@
 
 *Don't search for how to do it. Just tell NEXTSTEP what you need to get done.*
 
-[Live Demo](https://youtu.be/uayk2e85GjU?si=2EEDm8WJTh-l-Axq)           [Video Walkthrough](#-video-demo-script-245-min) 
+[Live Demo](https://youtu.be/uayk2e85GjU?si=2EEDm8WJTh-l-Axq)     <--------------->      [Video Walkthrough](#-video-demo-script-245-min) 
 
 ---
 
