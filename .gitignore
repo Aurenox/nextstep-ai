@@ -1,0 +1,30 @@
+# Environment & Secrets (CRITICAL)
+.env
+*.env
+*.env.*
+!.env.example
+
+# Databases & Cache
+*.db
+*.sqlite3
+nextstep.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
