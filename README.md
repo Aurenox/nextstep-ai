@@ -13,7 +13,7 @@
 
 *Don't search for how to do it. Just tell NEXTSTEP what you need to get done.*
 
-[Live Demo](#-quick-start) • [Architecture](#-architecture) • [Core Features](#-key-features) • [Video Walkthrough](#-video-demo-script-245-min) • [Author & Contact](#-author--contact)
+[Live Demo](https://youtu.be/uayk2e85GjU?si=2EEDm8WJTh-l-Axq) • [Architecture](#-architecture) • [Core Features](#-key-features) • [Video Walkthrough](#-video-demo-script-245-min) • [Author & Contact](#-author--contact)
 
 ---
 
